@@ -17,7 +17,7 @@ putchar((num % 10) + '0');
 
 										putchar(',');
 										putchar(' ');
-													}
+															}
 
 putchar('\n');
 
