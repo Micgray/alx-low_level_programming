@@ -3,7 +3,7 @@
 
 
 /**
- * main - prints the size of different of variables in bytes
+ * main - Prints the sizes of different of variables in bytes
  * Return: 0
  */
 int main(void)
