@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-
-
 /**
- * main - Prints the sizes of different of variables in bytes
- * Return: 0 if exited properly, non-zero otherwise 
+ * main - prints the size of various types
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
