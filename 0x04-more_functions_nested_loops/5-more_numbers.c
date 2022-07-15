@@ -21,6 +21,6 @@ _putchar(i % 10 + '0');
 i++;
 }
 c++;
-_putchar('\n');					}
+_putchar('\n');
 }
 }
