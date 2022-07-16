@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _strcat -> Function that concatenate steings
+* _strcat -> Function that concatenate strings
 * @dest: first string
 * @src: second string
 * Return: a concatenated string.
