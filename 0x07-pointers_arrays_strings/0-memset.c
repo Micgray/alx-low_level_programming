@@ -2,19 +2,13 @@
 
 /**
  * _memset -> function that copies memory area
- * @s: source string
- * @b: the contant byte for filling
- * @n: lenght of buffer 
- * Return: new string 
+ * @s: pointer that point to a memory area
+ * @b: the constant byte to be inserted in the memory are pointed to by s
+ * @n: first n bytes of the memory area to be filled
+ * Return: return a pointer to the memory area- (s)
  */
 char *_memset(char *s, char b, unsigned int n)
 {
-unsigned int 1 = 0;
-
-while (1 < n)
-(
-*(s + 1) = b;
-i++;
-)
+memset(s, b, n);
 return (s);
 }
